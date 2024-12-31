@@ -19,10 +19,10 @@ export default function Home() {
         <div className="absolute inset-0 bg-black bg-opacity-50"></div>
         <div className="relative z-10">
           <h1 className="text-5xl font-extrabold mb-6 text-yellow-400">
-            The Hard Man Challenge
+            The Unbroken Challenge
           </h1>
           <p className="text-xl mb-8">
-            Transform yourself with the ultimate challenge.
+            Transform yourself with these daily habits.
           </p>
         </div>
       </main>
@@ -31,10 +31,10 @@ export default function Home() {
       <section className="bg-gray-800 py-16 px-6">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl font-bold text-yellow-400 mb-8">
-            What is the Hard Man Challenge?
+            What is the Unbroken Challenge?
           </h2>
           <p className="text-lg text-gray-300 mb-12">
-            The Hard Man Challenge is designed to build discipline, strength, and character. 
+            The Unbroken Challenge is designed to build discipline, strength, and character. 
             Accumulate these daily tasks to start building the best version of yourself.
           </p>
         </div>
@@ -46,7 +46,7 @@ export default function Home() {
               <Link href="/challenges/exercise">Step 1: Exercise</Link>
             </h3>
             <p className="text-gray-300">
-              Commit to a daily workout—whether it’s weightlifting, running, or calisthenics. Move your body every day.
+              Commit to a daily workout... Move your body for at least 20 minutes every day.
             </p>
           </div>
 
@@ -55,34 +55,25 @@ export default function Home() {
               <Link href="/challenges/carnivore">Step 2: Carnivore Diet</Link>
             </h3>
             <p className="text-gray-300">
-              Fuel your body with a clean, meat-based diet to optimize strength, energy, and focus.
+              Consume nothing but meat, eggs, butter, salt and water.
             </p>
           </div>
 
           <div className="bg-gray-700 p-6 rounded-lg shadow-lg text-center">
             <h3 className="text-3xl font-bold text-yellow-400 mb-4">
-              <Link href="/challenges/noFap">Step 3: No Fap</Link>
+              <Link href="/challenges/create">Step 3: Create</Link>
             </h3>
             <p className="text-gray-300">
-              Build self-control by abstaining from pornography and unnecessary distractions.
+              Start creating so you can live the life you want to live.
             </p>
           </div>
 
           <div className="bg-gray-700 p-6 rounded-lg shadow-lg text-center">
             <h3 className="text-3xl font-bold text-yellow-400 mb-4">
-              <Link href="/challenges/skill">Step 4: Develop a Skill</Link>
+              <Link href="/challenges/read">Step 4: Read</Link>
             </h3>
             <p className="text-gray-300">
-              Commit to daily progress in a skill—whether it’s coding, woodworking, or playing an instrument.
-            </p>
-          </div>
-
-          <div className="bg-gray-700 p-6 rounded-lg shadow-lg text-center">
-            <h3 className="text-3xl font-bold text-yellow-400 mb-4">
-              <Link href="/challenges/read">Step 5: Read</Link>
-            </h3>
-            <p className="text-gray-300">
-              Feed your mind by reading at least 10 pages of a book every day—non-fiction or self-improvement preferred.
+              Read at least 15 pages of a book every.
             </p>
           </div>
         </div>
